@@ -244,3 +244,7 @@ body {
 .autocenter {
   margin: 0 auto;
 }
+
+.paddingleft {
+  padding-left: 83px;
+}
